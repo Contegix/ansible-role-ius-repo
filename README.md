@@ -1,4 +1,7 @@
-# Ansible Role: IUS Community Project Repository
+ansible-role-ius-repo
+=====================
+
+Ansible Role to Install the IUS Community Project repository
 
 Installs the IUS repository for RHEL/CentOS.
 
